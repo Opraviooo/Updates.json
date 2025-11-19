@@ -1,0 +1,20 @@
+{
+  "dialog": {
+    "enabled": true,
+    "title": "OP MODS™",
+    "description": "<b><font color='red'>WARNING</font><i><br>
+<font color='Yellow'>Mod Is Safe But</font><i><br><font color='Green'>if you get banned, I'm not responsible. Play at your own risk!</b>",
+
+    "telegram": "https://t.me/YOUR_CHANNEL",
+    "instagram": "https://instagram.com/YOUR_PAGE",
+    "youtube": "https://youtube.com/YOUR_CHANNEL",
+
+    "allow_play": true,
+    "join_now_link": "https://your-update-link.com",
+    "subtitle": "Developed by OpMods",
+    "join_now_text": "JOIN NOW",
+
+    "force_update": true,
+    "latest_version_code": 2
+  }
+}
