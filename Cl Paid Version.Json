@@ -1,0 +1,25 @@
+{
+  "show_dialog": true,
+  "allow_dont_show_again": false,
+  "show_continue_button": true,
+  "force_update": true,
+  "latest_version_code": 1,
+
+  "dialog_title": "OP MODS™",
+  "dialog_subtitle": "Developed by OpMods",
+  "dialog_message": "
+  Owner Notice 
+🔹 ** 𝙊𝙬𝙣𝙚𝙧 **: @OPMODDING
+🔹 **Reseller**: @NullcoderOp
+
+Beware of scams and unauthorized sellers. If you have any issues, please contact the official owner.
+
+Thank you for choosing OpMods",
+  "dialog_button_continue": "Continue",
+  "dialog_button_join": "Join Now",
+  "join_url": "https://t.me/OP_MODS",
+
+  "telegram_url": "https://t.me/OP_MODS",
+  "instagram_url": "https://t.me/OP_MODS",
+  "youtube_url": "https://t.me/OP_MODS"
+}
