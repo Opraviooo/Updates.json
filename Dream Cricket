@@ -1,6 +1,6 @@
 {
   "dialog": {
-    "enabled": true,
+    "enabled": false,
     "title": "OP MODS™",
     "description": "<b><font color='red'>WARNING</font><i><br>
 <font color='Yellow'>Mod Is Safe But</font><i><br><font color='Green'>if you get banned, I'm not responsible. Play at your own risk!</b>",
@@ -9,7 +9,7 @@
     "instagram": "https://t.me/OP_MODS",
     "youtube": "https://youtube.com/@opmods-sgp?si=LNExC_23MQj1-y4O",
 
-    "allow_play": false,
+    "allow_play": true,
     "join_now_link": "https://t.me/OP_MODS",
     "subtitle": "Developed by OpMods",
     "join_now_text": "JOIN NOW",
