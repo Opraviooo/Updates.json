@@ -1,1 +1,12 @@
-{ "key": "OPMODS-99999" }
+{
+  "login_enabled": true,
+  "server_message": "Welcome OP MODS",
+  "users": [
+    {
+      "key": "OPMODS-123",
+      "expire": "2025-12-31",
+      "active": true
+    }
+  ]
+}
+
