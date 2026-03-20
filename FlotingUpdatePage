@@ -1,11 +1,11 @@
 {
   "show": true,
 
-  "version": "108",
+  "version": "107",
   "updateName": "OPMODS",
   "changelog": "Fixed bugs, improved UI.",
   "apkUrl": "https://t.me/OP_MODS",
-  "forceUpdate": true,
+  "forceUpdate": false,
 
   "welcomeTitle": "Welcome",
   "welcomeMessage": "<b><font color='#00FFA0'>Join Telegram</font> For Free Keys and Updates</b>"
