@@ -1,0 +1,12 @@
+{
+  "show": true,
+
+  "version": "1",
+  "updateName": "OPMODS",
+  "changelog": "Fixed bugs, improved UI.",
+  "apkUrl": "https://your-download-link.com/app.apk",
+  "forceUpdate": false,
+
+  "welcomeTitle": "Welcome",
+  "welcomeMessage": "<b><font color='#00FFA0'>Join Telegram</font> For Free Keys and Updates</b>"
+}
